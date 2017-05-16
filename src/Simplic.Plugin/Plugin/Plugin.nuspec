@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Simplic.Plugin</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>simplic</authors>
+    <owners>simplic</owners>
+    <licenseUrl>https://raw.githubusercontent.com/simplic-systems/simplic-plugin/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/simplic-systems/simplic-plugin</projectUrl>
+    <iconUrl>https://avatars3.githubusercontent.com/u/14359329?v=3&amp;s=400</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Plugin interface used in Simplic products.</description>
+    <releaseNotes>Initial commit.</releaseNotes>
+    <copyright>Copyright Simplic GmbH 2017</copyright>    
+  </metadata>
+</package>

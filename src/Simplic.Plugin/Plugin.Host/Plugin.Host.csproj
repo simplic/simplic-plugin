@@ -47,7 +47,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Simplic.Plugin\Plugin.csproj">
+    <ProjectReference Include="..\Plugin\Plugin.csproj">
       <Project>{0F275DBA-662B-4E2D-90F6-9C768FCD71AA}</Project>
       <Name>Plugin</Name>
     </ProjectReference>

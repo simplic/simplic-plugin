@@ -40,6 +40,8 @@ namespace Simplic.Plugin
                 throw new System.ArgumentNullException(nameof(pluginDirectory));
 
 
+            aggregateCatalog = new AggregateCatalog();
+
             //Adds all the parts found in the same assembly as the Program class
             aggregateCatalog.Catalogs.Add(new DirectoryCatalog(pluginDirectory, searchPattern));
             
